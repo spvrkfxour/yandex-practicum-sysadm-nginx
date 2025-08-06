@@ -6,7 +6,7 @@ sudo apt install nginx
 sudo apt install php8.3-fpm
 ````
 
-### sites-available/default 
+### /etc/nginx/sites-available/default
 ````
 server {
   listen 80 default_server;
