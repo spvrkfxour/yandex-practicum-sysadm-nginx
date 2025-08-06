@@ -1,4 +1,4 @@
-# Nginx
+## Nginx
 
 ````
 sudo apt update && sudo apt upgrade
